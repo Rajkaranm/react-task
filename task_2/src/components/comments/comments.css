@@ -1,0 +1,15 @@
+.comments {
+    width: 40%;
+    height: 40%;
+    color: rgb(227, 223, 223);
+}
+
+.commentsWrapper {
+    padding: 10px;
+}
+
+.commentCount {
+    font-size: 1.9rem;
+    font-weight: bold;
+    color: rgb(206, 206, 206);
+}

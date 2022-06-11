@@ -1,0 +1,45 @@
+.comment {
+    width: 60%;
+    margin: 15px 0;
+}
+
+.commentWrapper {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.commentTexts {
+    margin-left: 12px;
+    opacity: 0.9;
+}
+
+.commentImg {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.commentTextsName {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.CommentsTextDate {
+    margin: 10px;
+    position: relative;
+    top: 3px;
+    left: 10px;
+    font-weight: 300;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.commentText {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 6px 0;
+}
